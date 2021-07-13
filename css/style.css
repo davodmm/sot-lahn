@@ -1,0 +1,47 @@
+
+
+ /* Genral ↓↓↓↓↓↓↓↓↓↓↓↓↓↓ */
+
+body {
+    font-family: 'Lalezar', 'Roboto';
+    direction: rtl;
+    margin: 0px;
+}
+
+span {
+  font-size: 21px;
+  margin-left: 15px;
+  position: relative;
+  top: -30px;
+}
+
+p {
+  font-size: 35px;
+  color: #189516;
+  margin: 0px;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  position: relative;
+  right: 170px;
+  height: 400px;
+}
+
+.a {
+  display: inline-block;
+  float: left;
+}
+
+.a > span {
+  position: relative;
+  right: 170px;
+  top: 20px;
+}
+
+.a > audio {
+  position: relative;
+  top: 100px;
+  left: 20px;
+}
