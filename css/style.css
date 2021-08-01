@@ -30,10 +30,15 @@ p {
   text-align: center;
 }
 
+#baghare {
+  margin-top: 55px;
+}
+
 div.second > img.lk {
   display: inline-block;
   position: relative;
   top: 100px;
+  right: 30px;
   height: 400px;
 }
 
@@ -117,17 +122,29 @@ img.zxcv {
   display: inline-block;
   position: relative;
   right: 1010px;
-  bottom: 410px;
+  bottom: 65px;
+}
+
+#asdf {
+  position: relative;
+  right: 10px;
+  width: 45px;
+}
+
+#asd {
+  position: relative;
+  right: 10px;
+}
+
+p.fg {
+  position: relative;
+  left: 500px;
+  top: 300px;
 }
 
 
 
-
-
-
 /* nav ↓↓↓↓↓↓↓↓↓↓↓↓↓↓ */
-
-
 
 
 
