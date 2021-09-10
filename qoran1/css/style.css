@@ -144,6 +144,24 @@ p.fg {
 
 
 
+div.thirth {
+  position: relative;
+  top: 100px;
+  border: 2px solid black;
+}
+
+div.thirth > p.noor {
+  position: relative;
+  left: 500px;
+}
+
+
+
+
+
+
+
+
 /* nav ↓↓↓↓↓↓↓↓↓↓↓↓↓↓ */
 
 
